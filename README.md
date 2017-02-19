@@ -1,3 +1,5 @@
+These are the questions:-
+
 
     Console "Hello Word" in document.ready function
     Select a ID name "#test" and add class "load" when DOM is loaded
